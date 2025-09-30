@@ -9,5 +9,5 @@ A simple and clean repository for testing and experimenting with GitHub features
 A simple Python game script to demonstrate basic programming concepts and GitHub integration.
 
 <p align="center">
-  <img src="game screenshot.png" alt="gameplay" width="400"/>
+  <img src="game screenshot.png" alt="gameplay"/>
 </p>
